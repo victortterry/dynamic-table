@@ -16,6 +16,11 @@ A powerful, interactive, and fully customizable table built with modern web tech
 ---
 
 ## 📸 Screenshots
+![image](https://github.com/user-attachments/assets/e012901c-ab47-449e-b7e9-871197aba2c2)
+
+![image](https://github.com/user-attachments/assets/0d3a7674-5fd3-462f-bff0-da61944898db)
+
+
 
 ### Table View with Filters and Tags
 Visit http://localhost:3000 in your browser.
