@@ -60,22 +60,5 @@ Product or transaction listings
 
 ## 📄 License
 Licensed under the MIT License.
-## 🔗 GitHub Repo
-https://github.com/victortterry/dynamic-table
-```yaml
 
----
-
-### ✅ Final Steps
-
-1. Save the screenshots with the exact names:
-   - `8d7dd7ea-0b65-4fbe-bbfe-d77192077cef.png`
-   - `d27dee6e-3f89-4a73-9ea1-01301f4190c7.png`
-2. Place them in your root or `public/` folder.
-3. Commit and push your README with:
-   ```bash
-   git add README.md *.png
-   git commit -m "Add README with screenshots for dynamic-table"
-   git push origin main
-``` 
 
